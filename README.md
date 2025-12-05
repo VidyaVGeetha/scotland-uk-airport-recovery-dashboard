@@ -74,6 +74,11 @@ https://www.caa.co.uk
 
 Dataset used only for educational & analytical purposes.
 ________________________________________________________
+☁️ Online Deployment (Streamlit Cloud)
+
+This app is live and accessible to anyone:
+👉 Live App: https://scotland-uk-airport-recovery-dashboard-6mmcwuyexbqeprruxpqhqb.streamlit.app/
+_____________________________________________________________
 👩‍💻 Author
 
 Vidya V. G.
